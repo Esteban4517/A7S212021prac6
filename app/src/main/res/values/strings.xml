@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A7S212021prac6</string>
+    <string name="tipocelular">celular</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">vertical</string>
+    <string name="tesoem">TESOEM</string>
+    <string name="logo">otro logo</string>
+    <string name="tableta">tableta</string>
+</resources>
